@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="phone_number" label="phone number" language="en" table="x_367195_visitorap_visitorinformation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <help/>
+            <hint/>
+            <label>phone number</label>
+            <language>en</language>
+            <name>x_367195_visitorap_visitorinformation</name>
+            <plural>phone numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 05:12:17</sys_created_on>
+            <sys_id>9d2818c5dbca330098d1e9c9489619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>phone number</sys_name>
+            <sys_package display_value="visitorApplication" source="x_367195_visitorap">65eeadf0db46330098d1e9c9489619c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="visitorApplication">65eeadf0db46330098d1e9c9489619c7</sys_scope>
+            <sys_update_name>sys_documentation_x_367195_visitorap_visitorinformation_phone_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 05:12:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
